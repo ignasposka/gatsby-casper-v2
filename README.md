@@ -1,4 +1,4 @@
-# gatsby-casper
+# gatsby-casper-demo
 
 Demo: https://gatsby-casper.netlify.com/  
 
